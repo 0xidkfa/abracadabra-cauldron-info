@@ -3,7 +3,8 @@ import fantomPools from './fantomPools';
 import avalanchePools from './avalanchePools';
 import arbitrumPools from './arbitrumPools';
 import bscPools from './bscPools';
-// import optimismPools from "./optimism";
+import maticPools from './maticPools';
+import optimismPools from './optimism';
 
 export default [
   ...mainnetPools,
@@ -11,5 +12,6 @@ export default [
   ...avalanchePools,
   ...arbitrumPools,
   ...bscPools,
-  // ...optimismPools,
+  ...optimismPools,
+  ...maticPools,
 ];

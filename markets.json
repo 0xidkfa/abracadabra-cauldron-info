@@ -1,0 +1,596 @@
+{
+  "1": [
+    {
+      "name": "yvUSDT v2",
+      "cauldron": {
+        "contract": "0x551a7CfF4de931F32893c928bBc3D25bF1Fc5147",
+        "version": 1,
+        "deprecated": true,
+        "creationBlock": 12558932
+      },
+      "leverageSwapper": { "contract": "0x197De282d7b5cEFfFD8f8B0196c30e8401593CF6" },
+      "deleverageSwapper": { "contract": "0x1D7C1C99045C1c776607F8C1eC9DDd27a2d319D3" }
+    },
+    {
+      "name": "yvWETH v2",
+      "cauldron": {
+        "contract": "0x6Ff9061bB8f97d948942cEF376d98b51fA38B91f",
+        "version": 1,
+        "deprecated": true,
+        "creationBlock": 12558932
+      },
+      "leverageSwapper": { "contract": "0x726EE39e9c7d00498109Ebf4d05C28a47Bf04655" },
+      "deleverageSwapper": { "contract": "0xEc919debe0255b9A4fC60886729fa8874AA63FCe" }
+    },
+    {
+      "name": "yvYFI v2",
+      "cauldron": {
+        "contract": "0xFFbF4892822e0d552CFF317F65e1eE7b5D3d9aE6",
+        "version": 1,
+        "deprecated": true,
+        "creationBlock": 12558943
+      },
+      "leverageSwapper": { "contract": "0x69704cb6c34586F648bEB1634e692b8a09bf0D01" },
+      "deleverageSwapper": { "contract": "0x27F2bEc8890Fbc7920b88dDbA0Bf0e7faC3c7Bc2" }
+    },
+    {
+      "name": "yvUSDC v2",
+      "cauldron": {
+        "contract": "0x6cbAFEE1FaB76cA5B5e144c43B3B50d42b7C8c8f",
+        "version": 1,
+        "deprecated": true,
+        "creationBlock": 12558945
+      },
+      "leverageSwapper": { "contract": "0x40f64fF796ea941F2383ce579EEe147a8732f01B" },
+      "deleverageSwapper": { "contract": "0xCA78478456b044AC13954a9172583Dd1737E52d2" }
+    },
+    {
+      "name": "xSUSHI",
+      "cauldron": {
+        "contract": "0xbb02A884621FB8F5BFd263A67F58B65df5b090f3",
+        "version": 1,
+        "deprecated": true,
+        "creationBlock": 12558960
+      },
+      "leverageSwapper": { "contract": "0xbF6F6654dB1c1742377ddF89cb42b3440B6E6699" },
+      "deleverageSwapper": { "contract": "0x1b34Da94F48110b64B7a437E057AE3e794C625a2" }
+    },
+    {
+      "name": "yvWETH v2",
+      "cauldron": {
+        "contract": "0x920D9BD936Da4eAFb5E25c6bDC9f6CB528953F9f",
+        "version": 1,
+        "deprecated": false,
+        "creationBlock": 12776693
+      },
+      "leverageSwapper": { "contract": "0x96ffaA1B3D647A2Ab4CFda942F411f4abf749cdb" },
+      "deleverageSwapper": { "contract": "0x4e5659446A8C42E36bEA73261285e569D1498A5e" }
+    },
+    {
+      "name": "yvcrvIB",
+      "cauldron": {
+        "contract": "0xEBfDe87310dc22404d918058FAa4D56DC4E93f0A",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 12903352
+      },
+      "leverageSwapper": { "contract": "0xC09FAaAac10b59ce3Fc6a56539d43786049f4436" },
+      "deleverageSwapper": { "contract": "0x1945dC833570A040e28B6E02aAC913726e363180" }
+    },
+    {
+      "name": "xSUSHI",
+      "cauldron": {
+        "contract": "0x98a84EfF6e008c5ed0289655CcdCa899bcb6B99F",
+        "version": 1,
+        "deprecated": false,
+        "creationBlock": 13082618
+      },
+      "leverageSwapper": { "contract": "0xbF6F6654dB1c1742377ddF89cb42b3440B6E6699" },
+      "deleverageSwapper": { "contract": "0x1b34Da94F48110b64B7a437E057AE3e794C625a2" }
+    },
+    {
+      "name": "wsOHM",
+      "cauldron": { "contract": "0x003d5a75d284824af736df51933be522de9eed0f", "version": 2, "deprecated": true },
+      "leverageSwapper": { "contract": "0x985486e621c28452f444bBcc8C84868BdA920922" },
+      "deleverageSwapper": { "contract": "0xc2BBE07e57508d61989251e399f96d1218B90523" }
+    },
+    {
+      "name": "sSpell",
+      "cauldron": {
+        "contract": "0xC319EEa1e792577C319723b5e60a15dA3857E7da",
+        "version": 2,
+        "deprecated": true,
+        "creationBlock": 13239675
+      },
+      "leverageSwapper": {},
+      "deleverageSwapper": { "contract": "0x125238b61064ab2c00c3b22acb4b3b6e4732ae90" }
+    },
+    {
+      "name": "ALCX",
+      "cauldron": {
+        "contract": "0x7b7473a76D6ae86CE19f7352A1E89F6C9dc39020",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 13127188
+      },
+      "leverageSwapper": { "contract": "0xf9BAE4c8C6e933d4D9dcAc611715024a1Ecb7527" },
+      "deleverageSwapper": { "contract": "0xB63Eb840dAEE054d9971DeDFeCBE0667A08C51F8" }
+    },
+    {
+      "name": "FTM",
+      "cauldron": {
+        "contract": "0x05500e2Ee779329698DF35760bEdcAAC046e7C27",
+        "version": 2,
+        "deprecated": true,
+        "creationBlock": 13127890
+      },
+      "leverageSwapper": { "contract": "0x83A56BA3CfC236f8923bd27258C6ABfC19b375F4" },
+      "deleverageSwapper": { "contract": "0xe1847Af8F3292aC831066bd288889596a1fD09bB" }
+    },
+    {
+      "name": "cvx3pool",
+      "cauldron": {
+        "contract": "0x806e16ec797c69afa8590A55723CE4CC1b54050E",
+        "version": 2,
+        "deprecated": true,
+        "creationBlock": 13148516
+      },
+      "leverageSwapper": { "contract": "0x1fC83f75499b7620d53757f0b01E2ae626aAE530" },
+      "deleverageSwapper": { "contract": "0xef9c97E356bc5fF2460E25f40f608101CE15d70b" }
+    },
+    {
+      "name": "cvxtricrypto2",
+      "cauldron": {
+        "contract": "0x4EAeD76C3A388f4a841E9c765560BBe7B3E4B3A0",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 13297740
+      },
+      "leverageSwapper": { "contract": "0xe02bf848395A538C7C624C2BFe377B039f067a62" },
+      "deleverageSwapper": { "contract": "0x0E1eA2269D6e22DfEEbce7b0A4c6c3d415b5bC85" }
+    },
+    {
+      "name": "AGLD",
+      "cauldron": {
+        "contract": "0xc1879bf24917ebE531FbAA20b0D05Da027B592ce",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 13318362
+      },
+      "leverageSwapper": { "contract": "0xd404BEF05E9e256765440A1B9a6B56750c4cedEc" },
+      "deleverageSwapper": { "contract": "0x184a07c9CFD6165D6ACCDc373Eb00Bc5Cd8733cF" }
+    },
+    {
+      "name": "UST",
+      "cauldron": { "contract": "0xbc36FdE44A7FD8f545d459452EF9539d7A14dd63", "version": 2, "deprecated": true },
+      "leverageSwapper": { "contract": "0x6B44d94ECDFaF0cb00dEF55212e226603BB68793" },
+      "deleverageSwapper": { "contract": "0xFf498bbCbf40d0f30f178F553e8Fa36153baf30b" }
+    },
+    {
+      "name": "SHIB",
+      "cauldron": {
+        "contract": "0x252dCf1B621Cc53bc22C256255d2bE5C8c32EaE4",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 13452048
+      },
+      "leverageSwapper": { "contract": "0xA3C8931Ec0fef9BF05386D154C4CD1e93AA92A12" },
+      "deleverageSwapper": { "contract": "0x1085Fa0770a88a132E3b8aae21C84755d70081ce" }
+    },
+    {
+      "name": "FTT",
+      "cauldron": {
+        "contract": "0x9617b633EF905860D919b88E1d9d9a6191795341",
+        "version": 2,
+        "deprecated": true,
+        "creationBlock": 13491944
+      },
+      "leverageSwapper": { "contract": "0xA3C8931Ec0fef9BF05386D154C4CD1e93AA92A12" },
+      "deleverageSwapper": { "contract": "0x1085Fa0770a88a132E3b8aae21C84755d70081ce" }
+    },
+    {
+      "name": "sSpell",
+      "cauldron": {
+        "contract": "0x3410297D89dCDAf4072B805EFc1ef701Bb3dd9BF",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 13492815
+      },
+      "leverageSwapper": {},
+      "deleverageSwapper": { "contract": "0x125238b61064ab2c00c3b22acb4b3b6e4732ae90" }
+    },
+    {
+      "name": "Spell",
+      "cauldron": {
+        "contract": "0xCfc571f3203756319c231d3Bc643Cee807E74636",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 13492855
+      },
+      "leverageSwapper": { "contract": "0x152b59937ecb0f1030D81D2206C4cBb3fd0cE015" },
+      "deleverageSwapper": { "contract": "0xeF633d1af20Ed99A69b7CF46Da5bE63dA07eD5ee" }
+    },
+    {
+      "name": "cvx3pool",
+      "cauldron": {
+        "contract": "0x6371EfE5CD6e3d2d7C477935b7669401143b7985",
+        "version": 2,
+        "deprecated": true,
+        "creationBlock": 13505014
+      },
+      "leverageSwapper": { "contract": "0x1fC83f75499b7620d53757f0b01E2ae626aAE530" },
+      "deleverageSwapper": { "contract": "0xef9c97E356bc5fF2460E25f40f608101CE15d70b" }
+    },
+    {
+      "name": "cvx3pool (new)",
+      "cauldron": {
+        "contract": "0x257101F20cB7243E2c7129773eD5dBBcef8B34E0",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 13518049
+      },
+      "leverageSwapper": { "contract": "0x6e8093ebB80cD9f7395681ad8dE90ca93b08d9aa" },
+      "deleverageSwapper": { "contract": "0x286ed6C7a0797e370ED47C8f0f57AD68060AF7c5" }
+    },
+    {
+      "name": "UST",
+      "cauldron": { "contract": "0x59E9082E068Ddb27FC5eF1690F9a9f22B32e573f", "version": 2, "deprecated": true },
+      "leverageSwapper": { "contract": "0x6B44d94ECDFaF0cb00dEF55212e226603BB68793" },
+      "deleverageSwapper": { "contract": "0xFf498bbCbf40d0f30f178F553e8Fa36153baf30b" }
+    },
+    {
+      "name": "WETH",
+      "cauldron": {
+        "contract": "0x390Db10e65b5ab920C19149C919D970ad9d18A41",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 13852120
+      },
+      "leverageSwapper": { "contract": "0x205d52E9eA8E42659AC5C7F83863B18d27d7E0F5" },
+      "deleverageSwapper": { "contract": "0xfb81be4BdE317d32eC6934DB87e05CfDc5245437" }
+    },
+    {
+      "name": "WBTC",
+      "cauldron": {
+        "contract": "0x5ec47EE69BEde0b6C2A2fC0D9d094dF16C192498",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 13941597
+      },
+      "leverageSwapper": { "contract": "0x6a5b5E025F2febf11646050e28240279215c0DA8" },
+      "deleverageSwapper": { "contract": "0x6C6A54a124E7B9859014425b8C0142ee0B19FeBf" }
+    },
+    {
+      "name": "yvCVXETH",
+      "cauldron": {
+        "contract": "0xf179fe36a36B32a4644587B8cdee7A23af98ed37",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 14262369
+      },
+      "leverageSwapper": { "contract": "0xE345156cDEc151D9F843F94ADE7770EFA9d56417" },
+      "deleverageSwapper": { "contract": "0xF80a7b98b59e7F71BAa149990bAA6044728321bb" }
+    },
+    {
+      "name": "yvDAI",
+      "cauldron": {
+        "contract": "0x7Ce7D9ED62B9A6c5aCe1c6Ec9aeb115FA3064757",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 14580479
+      },
+      "leverageSwapper": { "contract": "0xD8AF1558A2ca227607b49a3293e278c6875F9a40" },
+      "deleverageSwapper": { "contract": "0xdb3A46896d2855e7932fC8Ea5A8465Fd07F7Fb57" }
+    },
+    {
+      "name": "Stargate USDC",
+      "cauldron": {
+        "contract": "0xd31E19A0574dBF09310c3B06f3416661B4Dc7324",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 14744272
+      },
+      "leverageSwapper": { "contract": "0xEdEa4518796EA45dFc38D78D9B8b9e070436AD51" },
+      "deleverageSwapper": { "contract": "0x267A1D1Cf03E7514254eDDE262d229D02fF56a7D" }
+    },
+    {
+      "name": "Stargate USDT",
+      "cauldron": {
+        "contract": "0xc6B2b3fE7c3D7a6f823D9106E22e66660709001e",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 14744293
+      },
+      "leverageSwapper": { "contract": "0x1E188DD74adf8CC95c98714407e88a4a99b759A5" },
+      "deleverageSwapper": { "contract": "0x8e266f8310E047B9900b60132E4767FfDD0878bC" }
+    },
+    {
+      "name": "yvcrvSTETH Concentrated",
+      "cauldron": {
+        "contract": "0x53375adD9D2dFE19398eD65BAaEFfe622760A9A6",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 14771464
+      },
+      "leverageSwapper": { "contract": "0x39abc0483046D7Ad4957C8AdA6E0787824a7C21d" },
+      "deleverageSwapper": { "contract": "0xCbd7FD48c7a2a095ce053D5998db12Ca0Ea65264" }
+    },
+    {
+      "name": "LUSD",
+      "cauldron": {
+        "contract": "0x8227965A7f42956549aFaEc319F4E444aa438Df5",
+        "version": 3,
+        "deprecated": false,
+        "creationBlock": 15448458
+      },
+      "leverageSwapper": { "contract": "0x29CF1123Adc07FE5b23cf46Ab7247aFE9fBd20fF" },
+      "deleverageSwapper": { "contract": "0x6655bDefd9E03B552075Bc992c986E48294AED2b" }
+    },
+    {
+      "name": "CRV",
+      "cauldron": {
+        "contract": "0x207763511da879a900973A5E092382117C3c1588",
+        "version": 4,
+        "deprecated": false,
+        "creationBlock": 16154962
+      },
+      "leverageSwapper": {},
+      "deleverageSwapper": {}
+    },
+    {
+      "name": "WBTC",
+      "cauldron": {
+        "contract": "0x85f60D3ea4E86Af43c9D4E9CC9095281fC25c405",
+        "version": 4,
+        "deprecated": true,
+        "creationBlock": 16180626
+      },
+      "leverageSwapper": {},
+      "deleverageSwapper": {}
+    },
+    {
+      "name": "yvcrvSTETH",
+      "cauldron": {
+        "contract": "0x406b89138782851d3a8C04C743b010CEb0374352",
+        "version": 4,
+        "deprecated": true,
+        "creationBlock": 16180626
+      },
+      "leverageSwapper": {},
+      "deleverageSwapper": {}
+    }
+  ],
+  "10": [
+    {
+      "name": "Velodrome Volatile OP/USDC",
+      "cauldron": {
+        "contract": "0x68f498C230015254AFF0E1EB6F85Da558dFf2362",
+        "version": 3,
+        "deprecated": false,
+        "creationBlock": 18919918
+      },
+      "leverageSwapper": { "contract": "0x6E4358c889bb7871061904Be31Fe47C3B8b7F442" },
+      "deleverageSwapper": { "contract": "0x741A2378a8E003acbAdbc21506bC624062Ace36E" }
+    }
+  ],
+  "56": [
+    {
+      "name": "WBNB",
+      "cauldron": {
+        "contract": "0x692CF15F80415D83E8c0e139cAbcDA67fcc12C90",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 12763666
+      },
+      "leverageSwapper": { "contract": "0x197De282d7b5cEFfFD8f8B0196c30e8401593CF6" },
+      "deleverageSwapper": { "contract": "0x1D7C1C99045C1c776607F8C1eC9DDd27a2d319D3" }
+    },
+    {
+      "name": "CAKE",
+      "cauldron": {
+        "contract": "0xF8049467F3A9D50176f4816b20cDdd9bB8a93319",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 12765698
+      },
+      "leverageSwapper": { "contract": "0x197De282d7b5cEFfFD8f8B0196c30e8401593CF6" },
+      "deleverageSwapper": { "contract": "0x1D7C1C99045C1c776607F8C1eC9DDd27a2d319D3" }
+    }
+  ],
+  "137": [
+    {
+      "name": "MATIC",
+      "cauldron": { "contract": "0x5ff7FB4D65d6250b1C7BAB5d64D83D859E0d6CF5", "version": 2, "deprecated": false },
+      "leverageSwapper": { "contract": "0x3d19f3Af2AA7A6fFec2324f92421A8f4156309D1" },
+      "deleverageSwapper": { "contract": "0xE8f1D5D6B83c59aC3Ba6D1CB9aFbfF54408EcBDC" }
+    }
+  ],
+  "250": [
+    {
+      "name": "WFTM",
+      "cauldron": {
+        "contract": "0x8E45Af6743422e488aFAcDad842cE75A09eaEd34",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 11536771
+      },
+      "leverageSwapper": { "contract": "0x3d19f3Af2AA7A6fFec2324f92421A8f4156309D1" },
+      "deleverageSwapper": { "contract": "0xE8f1D5D6B83c59aC3Ba6D1CB9aFbfF54408EcBDC" }
+    },
+    {
+      "name": "WFTM",
+      "cauldron": {
+        "contract": "0xd4357d43545F793101b592bACaB89943DC89d11b",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 11536803
+      },
+      "leverageSwapper": { "contract": "0x3d19f3Af2AA7A6fFec2324f92421A8f4156309D1" },
+      "deleverageSwapper": { "contract": "0xE8f1D5D6B83c59aC3Ba6D1CB9aFbfF54408EcBDC" }
+    },
+    {
+      "name": "yvWFTM",
+      "cauldron": {
+        "contract": "0xed745b045f9495B8bfC7b58eeA8E0d0597884e12",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 1749482
+      },
+      "leverageSwapper": { "contract": "0x26FA3fFFB6EfE8c1E69103aCb4044C26B9A106a9" },
+      "deleverageSwapper": { "contract": "0xFE2b09980D1f579E13a0Ce3f45AB240d5b1C2f6b" }
+    },
+    {
+      "name": "xBOO",
+      "cauldron": {
+        "contract": "0xa3Fc1B4b7f06c2391f7AD7D4795C1cD28A59917e",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 3124064
+      },
+      "leverageSwapper": { "contract": "0x791aaB38C442a327Df0beb1fEc5767D8cA91dcc1" },
+      "deleverageSwapper": { "contract": "0x9732D3Ee0f185D7c2D610E30DC5de28EF68Ad7c9" }
+    },
+    {
+      "name": "FTM/MIM",
+      "cauldron": {
+        "contract": "0x7208d9F9398D7b02C5C22c334c2a7A3A98c0A45d",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 31494241
+      },
+      "leverageSwapper": { "contract": "0xe45217A77C332FF767112dC89E568c473c5fad2b" },
+      "deleverageSwapper": { "contract": "0xD7477321A84F3d39B8D742580F3740016658135D" }
+    },
+    {
+      "name": "FTM/MIM",
+      "cauldron": {
+        "contract": "0x4fdfFa59bf8dda3F4d5b38F260EAb8BFaC6d7bC1",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 3149787
+      },
+      "leverageSwapper": { "contract": "0xe788aBab092c165fAb7Ded7b7D2962abc808eE6C" },
+      "deleverageSwapper": { "contract": "0xFDF2C2689c130B0686331C9ADa0E40Ec1A1A58d7" }
+    }
+  ],
+  "42161": [
+    {
+      "name": "WETH",
+      "cauldron": {
+        "contract": "0xC89958B03A55B5de2221aCB25B58B89A000215E6",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 845270
+      },
+      "leverageSwapper": { "contract": "0xC9faCFA2fC50C9A30C77a2ad14E2dB107d591918" },
+      "deleverageSwapper": { "contract": "0x4c56DbCC056655b8813539aF9C819ae128c07e17" }
+    },
+    {
+      "name": "GLP",
+      "cauldron": {
+        "contract": "0x5698135CA439f21a57bDdbe8b582C62f090406D5",
+        "version": 4,
+        "deprecated": false,
+        "creationBlock": 42827353
+      },
+      "leverageSwapper": {},
+      "deleverageSwapper": {}
+    },
+    {
+      "name": "MagicGLP",
+      "cauldron": {
+        "contract": "0x726413d7402fF180609d0EBc79506df8633701B1",
+        "version": 4,
+        "deprecated": false,
+        "creationBlock": 55708731
+      },
+      "leverageSwapper": { "contract": "0x49Bd7dB43695c38661067765BE9484F8177B13f3" },
+      "deleverageSwapper": { "contract": "0x08a47F1F14292b0655B70588C76b614f64074db4" }
+    }
+  ],
+  "43114": [
+    {
+      "name": "WAVAX",
+      "cauldron": { "contract": "0x3cfed0439ab822530b1ffbd19536d897ef30d2a2", "version": 2, "deprecated": false },
+      "leverageSwapper": { "contract": "0x69BfEa0307A071C3e6CD217486B16d20bD58c7B1" },
+      "deleverageSwapper": { "contract": "0x2B727505fDF3650028C8dE0f5d73337Ba78f36A8" }
+    },
+    {
+      "name": "wMEMO",
+      "cauldron": {
+        "contract": "0x56984F04d2d04B2F63403f0EbeDD3487716bA49d",
+        "version": 2,
+        "deprecated": true,
+        "creationBlock": 5046414
+      },
+      "leverageSwapper": { "contract": "0x2Be431EE7E74b1CB7CfA16Fc90578EF42eF361B0" },
+      "deleverageSwapper": { "contract": "0xe788aBab092c165fAb7Ded7b7D2962abc808eE6C" }
+    },
+    {
+      "name": "xJOE",
+      "cauldron": {
+        "contract": "0x3b63f81Ad1fc724E44330b4cf5b5B6e355AD964B",
+        "version": 2,
+        "deprecated": true,
+        "creationBlock": 6414426
+      },
+      "leverageSwapper": { "contract": "0xc022abBa577E991edD6515E28f779Ed4D732B888" },
+      "deleverageSwapper": { "contract": "0x303A59A1020807B6FD78D3BB0e3c8B6a26Bbc0B9" }
+    },
+    {
+      "name": "AVAX/USDC.e JLP",
+      "cauldron": {
+        "contract": "0x95cCe62C3eCD9A33090bBf8a9eAC50b699B54210",
+        "version": 2,
+        "deprecated": true,
+        "creationBlock": 6415427
+      },
+      "leverageSwapper": { "contract": "0x38a67c0F839e5F8939B12f9181A1924E4e4375eD" },
+      "deleverageSwapper": { "contract": "0x20CB52832F35C61CCdBe5c336e405FE979de9430" }
+    },
+    {
+      "name": "wMEMO",
+      "cauldron": {
+        "contract": "0x35fA7A723B3B39f15623Ff1Eb26D8701E7D6bB21",
+        "version": 2,
+        "deprecated": true,
+        "creationBlock": 6888366
+      },
+      "leverageSwapper": { "contract": "0x2Be431EE7E74b1CB7CfA16Fc90578EF42eF361B0" },
+      "deleverageSwapper": { "contract": "0xe788aBab092c165fAb7Ded7b7D2962abc808eE6C" }
+    },
+    {
+      "name": "AVAX/USDT.e JLP",
+      "cauldron": {
+        "contract": "0x0a1e6a80E93e62Bd0D3D3BFcF4c362C40FB1cF3D",
+        "version": 2,
+        "deprecated": true,
+        "creationBlock": 6877723
+      },
+      "leverageSwapper": { "contract": "0x8CEe5B335f450933b4720B5b84e6125d4225FB62" },
+      "deleverageSwapper": { "contract": "0x9Ca03FeBDE38c2C8A2E8F3d74E23a58192Ca921d" }
+    },
+    {
+      "name": "AVAX/MIM JLP",
+      "cauldron": {
+        "contract": "0x2450Bf8e625e98e14884355205af6F97E3E68d07",
+        "version": 2,
+        "deprecated": true,
+        "creationBlock": 6877772
+      },
+      "leverageSwapper": { "contract": "0xBA7fd957ad9b7C0238E6E4413dbA69E83224a582" },
+      "deleverageSwapper": { "contract": "0xBc00ca0d71231c5E23Ba90A90D8C5D9039C39614" }
+    },
+    {
+      "name": "AVAX/MIM SLP",
+      "cauldron": {
+        "contract": "0xAcc6821d0F368b02d223158F8aDA4824dA9f28E3",
+        "version": 2,
+        "deprecated": false,
+        "creationBlock": 9512704
+      },
+      "leverageSwapper": { "contract": "0xFDF2C2689c130B0686331C9ADa0E40Ec1A1A58d7" },
+      "deleverageSwapper": { "contract": "0xD7477321A84F3d39B8D742580F3740016658135D" }
+    }
+  ]
+}

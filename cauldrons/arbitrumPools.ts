@@ -32,6 +32,7 @@ export default [
     },
     pairToken: {
       name: 'MIM',
+
       decimals: 18,
       address: '0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A',
     },
@@ -78,6 +79,7 @@ export default [
       name: 'GLP',
       defaultToken: false,
       lpAddress: '0x5402B5F40310bDED796c7D0F3FF6683f5C0cFfdf',
+
       tokenWrapper: '0xDd45c6614305D705a444B3baB0405D68aC85DbA5',
     },
     pairToken: {
@@ -85,6 +87,58 @@ export default [
 
       decimals: 18,
       address: '0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A',
+    },
+  },
+  {
+    name: 'MagicGLP',
+    contractChain: 42161,
+    id: 3,
+    stabilityFee: 7.5,
+    interest: 6,
+    ltv: 75,
+    borrowFee: 0,
+    isSwappersActive: true,
+    is0xSwap: true,
+    cauldronSettings: {
+      isDegenBox: true,
+      strategyLink: 'https://abracadabramoney.gitbook.io/learn/intro/stake/mglp',
+      isDepreciated: false,
+      acceptUseDefaultBalance: false,
+      healthMultiplier: 1,
+      hasAccountBorrowLimit: false,
+      hasWithdrawableLimit: false,
+      leverageMax: 15,
+      dynamicBorrowAmountLimit: false,
+      isCollateralClaimable: false,
+      claimCrvReward: false,
+    },
+    contract: {
+      name: 'CauldronV4',
+      address: '0x726413d7402fF180609d0EBc79506df8633701B1',
+    },
+    token: {
+      name: 'magicGLP',
+      decimals: 18,
+      address: '0x85667409a723684Fe1e57Dd1ABDe8D88C2f54214',
+    },
+    lpLogic: {
+      name: 'GLP',
+      defaultToken: false,
+      lpAddress: '0x5402B5F40310bDED796c7D0F3FF6683f5C0cFfdf',
+
+      tokenWrapper: '0x565adE5536Ab84018e00d6d7f56E7a300717c10b',
+    },
+    pairToken: {
+      name: 'MIM',
+
+      decimals: 18,
+      address: '0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A',
+    },
+    swapContractInfo: {
+      address: '0x49Bd7dB43695c38661067765BE9484F8177B13f3',
+    },
+    reverseSwapContractInfo: {
+      address: '0x08a47F1F14292b0655B70588C76b614f64074db4',
     },
   },
 ];
